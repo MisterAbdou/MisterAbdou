@@ -1,10 +1,10 @@
 
 
 <h1 align="center">Hi 👋, I'm Serigne Abdouy Ndiaye</h1>
-<h3 align="center">A passionate fullstack developer from Senegal</h3>
+<h3 align="center">A passionate of AI from Senegal</h3>
 
 
-- 🌱 I’m currently learning **Angular, php and Flutter**
+- 🌱 I’m currently learning ** php and Flutter**
 
 - 📫 How to reach me **serigneabdoundiaye763@gmail.com**
 
