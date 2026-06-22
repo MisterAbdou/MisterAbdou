@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning ** machine learning , angular and symphony**
 
-- 📫 How to reach me **serigneabdoundiaye763@gmail.com**
+- 📫 How to reach me : **serigneabdoundiaye763@gmail.com**   or 
                       **ndiaye.serigne-abdou@ugb.edu.sn**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
