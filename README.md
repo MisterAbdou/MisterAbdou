@@ -1,13 +1,13 @@
-
+.
 
 <h1 align="center">Hi 👋, I'm Serigne Abdouy Ndiaye</h1>
 <h3 align="center">A passionate of AI from Senegal</h3>
 
 
-- 🌱 I’m currently learning ** php and Flutter**
+- 🌱 I’m currently learning ** machine learning , angular and symphony**
 
 - 📫 How to reach me **serigneabdoundiaye763@gmail.com**
-
+                      **ndiaye.serigne-abdou@ugb.edu.sn**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
