@@ -1,7 +1,7 @@
 .
 
 <h1 align="center">Hi 👋, I'm Serigne Abdouy Ndiaye</h1>
-<h3 align="center">A passionate of AI from Senegal</h3>
+<h3 align="center">A passionate of AI  and web/mobile development from Senegal</h3>
 
 
 - 🌱 I’m currently learning ** machine learning , angular and symphony**
